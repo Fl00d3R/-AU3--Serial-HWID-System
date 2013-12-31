@@ -41,8 +41,7 @@ ToDo:
 1.	/Scripte/HWID.au3
 	
 	nachfolgende Variablen anpassen
-	
-	#region parameters
+
 	$sCryptKey = "Verschlüsselungscode"
 	$sAlgo = $CALG_AES_256
 	$sTitle = "Programmtitel"
@@ -55,10 +54,8 @@ ToDo:
 	
 	nachfolgende Variablen anpassen
 	
-	#region parameters
 	$sAddSerialURL = "http://www.deineseite.de/insert_serial.php?serial="
-	#endregion
-
+	
 
 
 3.	/Upload/PHP/db_config.php
